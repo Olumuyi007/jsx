@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,400;1,500&family=Roboto:ital,wght@1,100&family=Work+Sans:wght@100&display=swap');
+.primary {
+    color: blue;
+    padding: 20px;
+}
+.pic{
+    width: 300px;
+    border-radius: 100px;
+    border-color: black;
+    border-width: 50px;
+
+}
